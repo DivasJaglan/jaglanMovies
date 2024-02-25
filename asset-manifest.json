@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jaglanMovies/static/css/main.491f63c1.css",
+    "main.js": "/jaglanMovies/static/js/main.4b427df4.js",
+    "index.html": "/jaglanMovies/index.html",
+    "main.491f63c1.css.map": "/jaglanMovies/static/css/main.491f63c1.css.map",
+    "main.4b427df4.js.map": "/jaglanMovies/static/js/main.4b427df4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491f63c1.css",
+    "static/js/main.4b427df4.js"
+  ]
+}
